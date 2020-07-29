@@ -7,4 +7,3 @@ export ROS_DOMAIN_ID=10
 ros2 security create_keystore store
 ros2 security create_key store /listener
 ros2 run demo_nodes_cpp listener
-
